@@ -10,11 +10,11 @@
   </div>
 </template>
 
-<script lang="ts" setup>
-import FeaturedMovies from "./[components]/FeaturedMovies.vue";
-import AppMobile from "./[components]/AppMobile.vue";
-import NewApra from "./[components]/NewApra.vue"
-import KidApra from "./[components]/KidApra.vue"
+<script setup>
+import FeaturedMovies from "./[components]/landing/FeaturedMovies.vue";
+import AppMobile from "./[components]/landing/AppMobile.vue";
+import NewApra from "./[components]/landing/NewApra.vue"
+import KidApra from "./[components]/landing/KidApra.vue"
 
 </script>
 
