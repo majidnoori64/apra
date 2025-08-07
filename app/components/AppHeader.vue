@@ -34,7 +34,7 @@
       </div>
     </div>
     <div class="flex justify-center mt-[254px]">
-      <h1 class="w-[866px] text-[48px] text-white leading-[100px] text-center">
+      <h1 class="w-[700px] text-[48px] font-[800] text-white leading-[100px] text-center">
         "تو تصمیم می‌گیری چقدر پرداخت کنی!" دنیایی از فیلم‌های متنوع ایرانی و
         خارجی  آماده تماشا هستید؟
       </h1>

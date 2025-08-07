@@ -23,7 +23,7 @@
       <input
         type="text"
         name="q"
-        class="w-full h-8 pr-[8px] text-[#fff] text-[15px] focus:outline-none placeholder-white"
+        class="w-full h-8 pr-[8px] text-[#fff] text-[15px] font-[500] focus:outline-none placeholder-white"
         placeholder="جستجوی فیلم، سریال، بازیگر و کارگردان"
       />
     </form>

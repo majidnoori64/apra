@@ -1,1 +1,12 @@
 @import "tailwindcss";
+@font-face {
+    font-family: 'danawebGX';
+    src: url('/fonts/danawebGX.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: "danawebGX";
+}
