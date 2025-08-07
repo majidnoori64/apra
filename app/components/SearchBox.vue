@@ -1,6 +1,6 @@
 <template>
   <div
-    class="w-[328px] h-[48px] border-solid border-1 border-[#fff] rounded-[8px] flex items-center mr-[16px]"
+    class="w-[328px] h-[48px] border-solid border-1 border-white rounded-[8px] flex items-center mr-[16px]"
   >
     <form action="/search" class="w-full px-4 flex items-center h-100%">
       <button type="submit">
@@ -23,7 +23,7 @@
       <input
         type="text"
         name="q"
-        class="w-full h-8 pr-[8px] text-[#fff] text-[15px] font-[500] focus:outline-none placeholder-white"
+        class="w-full h-8 pr-[8px] text-white text-[15px] font-[500] focus:outline-none placeholder-white"
         placeholder="جستجوی فیلم، سریال، بازیگر و کارگردان"
       />
     </form>

@@ -18,7 +18,7 @@
       </div>
     </div>
     <div class="mt-[42px]">
-      <div class="w-[496px] bg-[#4B4BF959] rounded-[12px] p-2 mb-[24px]">
+      <div class="w-[496px] bg-blue-1 rounded-[12px] p-2 mb-[24px]">
         <p class="text-white font-[800] leading-8">🎈 بخش اختصاصی کودکان</p>
         <p class="text-white font-[500] leading-8">
           آپرا یک بخش ویژه برای کودکان دارد که محیطی امن، سرگرم‌کننده و آموزنده
@@ -26,7 +26,7 @@
         </p>
       </div>
       <div
-        class="w-[538px] bg-[#00000099] p-1 rounded-[12px] mr-[147px]"
+        class="w-[538px] bg-purple-1 p-1 rounded-[12px] mr-[147px]"
         style="box-shadow: 0px -3px 12px 0px #97979740"
       >
         <p class="text-white font-[18px] leading-8">
@@ -38,7 +38,7 @@
     </div>
     <div class="flex items-end my-[40px] mr-[62px]">
       <button
-        class="w-[194px] py-[12px] px-[28px] bg-[#FF6633] rounded-[16px] text-white"
+        class="w-[194px] py-[12px] px-[28px] bg-orang-1 rounded-[16px] text-white"
       >
         ورود به آپرا کودک
       </button>

@@ -22,12 +22,12 @@
       </div>
       <div>
         <button
-          class="w-[314px] bg-[#1B6BE5] py-[12px] text-white rounded-[8px] font-[800] ml-[16px]"
+          class="w-[314px] bg-blue-2 py-[12px] text-white rounded-[8px] font-[800] ml-[16px]"
         >
           پرداخت خودکار
         </button>
         <button
-          class="w-[116px] bg-[#FF6633] py-[12px] text-white rounded-[16px] font-[800]"
+          class="w-[116px] bg-orang-1 py-[12px] text-white rounded-[16px] font-[800]"
         >
           پروفایل
         </button>

@@ -1,7 +1,7 @@
 <template>
-  <div  class="flex bg-[#373737]" style="box-shadow: 0px -8px 38px 0px #ffffff40">
-    <div v-for="item in items" :key="item.id" class=" h-[360px] p-[24px] w-100 odd:bg-[#373737] even:bg-[#404040] border border-[#525252] border-solid">
-      <div class="w-[50px] h-[48px] p-2 bg-[#000] rounded-[12px] mb-[12px]">
+  <div  class="flex bg-gray-1" style="box-shadow: 0px -8px 38px 0px #ffffff40">
+    <div v-for="item in items" :key="item.id" class=" h-[360px] p-[24px] w-100 odd:bg-gray-1 even:bg-gray-2 border border-gray-3 border-solid">
+      <div class="w-[50px] h-[48px] p-2 bg-black-1 rounded-[12px] mb-[12px]">
         <NuxtImg width="38" :src="`img/${item.icon}`" />
       </div>
       <p class="text-white font-[700] text-[24px] leading-[40px] mb-2">

@@ -10,3 +10,14 @@
 body {
     font-family: "danawebGX";
 }
+
+@theme {
+    --color-black-1: #000;
+    --color-orang-1: #FF6633;
+    --color-blue-1: #4B4BF959;
+    --color-blue-2: #1B6BE5;
+    --color-purple-1: #00000099;
+    --color-gray-1: #373737;
+    --color-gray-2: #404040;
+    --color-gray-3: #525252
+}

@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[#000]">
+  <div class="bg-black-1">
     <AppMobile />
     <NewApra />
     <FeaturedMovies />
